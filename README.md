@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img  src="./pic.jpg">
+  <img  src="./pic.JPG">
 </p>
 
 ## :rocket: About the challenge
