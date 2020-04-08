@@ -65,12 +65,12 @@ For this challenge we have the following tests:
 
 - ** `should be able to remove repository` **: In order for this test to pass, your application must allow that by clicking on the remove button that will be inside the` LI` of the added repository, the item is removed from the list.
 
-##: calendar: Delivery
+## :calendar: Delivery
 
 This challenge must be delivered from the Skylab platform, send the link to the repository where you made your changes. After completing the challenge, making a post on Linkedin and posting the code on Github is a good way to demonstrate your knowledge and efforts to evolve your career for future opportunities.
 
-##: memo: License
-This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+## :memo: License
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
 ---
 
